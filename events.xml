@@ -1,0 +1,1040 @@
+<?xml version="1.0"?>
+<monthly>
+
+<!-- Noviembre 2016-->
+	<event>
+		<id>1</id>
+		<name>PACHANGA: Partido aplazado contra CDK. Pachanga en E. Mas a las 21:00</name>
+		<startdate>2016-11-28</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#ABAEB4</color> <!-- Gris -->
+		<url></url>
+	</event>
+
+	<!-- Fin de Noviembre 2016-->
+
+
+<!-- Diciembre 2016-->
+	<event>
+		<id>2</id>
+		<name>PACHANGA: Partido aplazado contra Fecron. Pachanga en E. Mas a las 20:00</name>
+		<startdate>2016-12-12</startdate>
+		<enddate></enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#ABAEB4</color> <!-- Gris -->
+		<url></url>
+	</event>
+
+	<event>
+		<id>3</id>
+		<name>REE 3-8 CDK GLOBAL Partido de Liga</name>
+		<startdate>2016-12-12</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>4</id>
+		<name>NORMON 2-1 ALAMO CONSULTING Partido de Liga</name>
+		<startdate>2016-12-20</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>5</id>
+		<name>ADS CRISA 2-1 BAR PICAZO Partido de Liga</name>
+		<startdate>2016-12-14</startdate>
+		<enddate></enddate>
+		<starttime>19:00</starttime>
+		<endtime>20:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>6</id>
+		<name>CRISA FABRICACION 3-7 RSI Partido de Liga</name>
+		<startdate>2016-12-15</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>7</id>
+		<name>CDK GLOBAL 3-4 PACHANBIRRAS Partido de liga aplazado ¡¡Victoria!!</name>
+		<startdate>2016-12-19</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#0850D6</color> <!-- Azul -->
+		<url></url>
+	</event>
+
+	<event>
+		<id>8</id>
+		<name>REE 2-3 ADS CRISA Partido de liga aplazado</name>
+		<startdate>2016-12-19</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+<!-- Fin de Diciembre 2016 -->
+
+
+<!-- Enero 2017 -->
+	<event>
+		<id>9</id>
+		<name>MORALEJA 1-5 PACHANBIRRAS Partido de copa. Eliminatoria directa. ¡¡Victoria!!</name>
+		<startdate>2017-1-10</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#08EE04</color> <!-- Verde Manzana -->
+		<url></url>
+	</event>
+
+	<event>
+		<id>10</id>
+		<name>ADS CRISA 4-3 NONAME SPORT Partido de copa. Eliminatoria directa. </name>
+		<startdate>2017-1-11</startdate>
+		<enddate></enddate>
+		<starttime>19:00</starttime>
+		<endtime>20:00</endtime>
+		<color>#81F67E</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>11</id>
+		<name>CDK - CRISA FABRICACION Partido de copa. Ganador CDK.</name>
+		<startdate>2017-1-12</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#81F67E</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>12</id>
+		<name>BAR PICAZO-REE Partido de copa. Ganador BAR PICAZO.</name>
+		<startdate>2017-1-12</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#81F67E</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>13</id>
+		<name>FECRON UTD 2-7 REE Partido de Liga</name>
+		<startdate>2017-1-16</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>14</id>
+		<name>CRISA FABRICACION 3-4 PACHANBIRRAS Partido de Liga ¡¡Victoria!!</name>
+		<startdate>2017-1-16</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#0850D6</color> <!-- Azul -->
+		<url></url>
+	</event>
+
+	<event>
+		<id>15</id>
+		<name>CDK GLOBAL 7-1 NORMON Partido de Liga</name>
+		<startdate>2017-1-17</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>16</id>
+		<name>RSI 5-4 BAR PICAZO Partido de Liga</name>
+		<startdate>2017-1-18</startdate>
+		<enddate></enddate>
+		<starttime>19:00</starttime>
+		<endtime>20:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>17</id>
+		<name>MORALEJA 2-3 ADS CRISA Partido de Liga</name>
+		<startdate>2017-1-19</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>18</id>
+		<name>ALAMO CONSULTING 3-5 NONAME SPORT Partido de Liga</name>
+		<startdate>2017-1-19</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>19</id>
+		<name>NONAME SPORT 2-7 CDK GLOBAL Partido de Liga</name>
+		<startdate>2017-1-23</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>20</id>
+		<name>REE 7-5 CRISA FABRICACION Partido de Liga</name>
+		<startdate>2017-1-24</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+
+	<event>
+		<id>21</id>
+		<name>NORMON 5-0 FECRON Partido de Liga</name>
+		<startdate>2017-1-25</startdate>
+		<enddate></enddate>
+		<starttime>19:00</starttime>
+		<endtime>20:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>22</id>
+		<name>ADS CRISA 3-5 ALAMO CONSULTING Partido de Liga</name>
+		<startdate>2017-1-26</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+
+	<event>
+		<id>23</id>
+		<name>BAR PICAZO 4-3 MORALEJA Partido de Liga</name>
+		<startdate>2017-1-26</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>Cumpleaños de Dani ¡¡FELICIDADES!!</name>
+		<startdate>2017-1-29</startdate>
+		<enddate></enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#F71D57</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>24</id>
+		<name>FECRON - NONAME SPORT No aplazado</name>
+		<startdate>2017-1-30</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>25</id>
+		<name>PACHANBIRRAS 6-1 REE Partido de Liga</name>
+		<startdate>2017-1-30</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#0850D6</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>26</id>
+		<name>RSI 1-5 MORALEJA Partido de Liga</name>
+		<startdate>2017-1-31</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>26</id>
+		<name>RSI 6-2 MORALEJA Partido de Liga</name>
+		<startdate>2017-1-31</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>	
+	
+	<!-- Fin de Enero 2017-->
+
+
+
+	<!-- Febrero 2017-->
+
+	<event>
+		<id>27</id>
+		<name>CRISA FABRICACION 6-2 NORMON Partido de Liga</name>
+		<startdate>2017-2-1</startdate>
+		<enddate></enddate>
+		<starttime>19:00</starttime>
+		<endtime>20:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>28</id>
+		<name>CDK GLOBAL 3-2 ADS CRISA Partido de Liga</name>
+		<startdate>2017-2-2</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>29</id>
+		<name>ALAMO - BAR PICAZO Aplazado</name>
+		<startdate>2017-2-2</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>30</id>
+		<name>REE 3-8 RSI Partido de Liga</name>
+		<startdate>2017-2-6</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>31</id>
+		<name>MORALEJA 6-4 ALAMO Partido de Liga</name>
+		<startdate>2017-2-6</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>32</id>
+		<name>NORMON 1-3 PACHANBIRRAS Partido de Liga</name>
+		<startdate>2017-2-7</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#0850D6</color> <!-- Azul -->
+		<url></url>
+	</event>
+
+	<event>
+		<id>33</id>
+		<name>ADS CRISA 4-4 FECRON UTD Partido de Liga</name>
+		<startdate>2017-2-8</startdate>
+		<enddate></enddate>
+		<starttime>19:00</starttime>
+		<endtime>20:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>34</id>
+		<name>NONAME 8-2 CRISA FABRICACION Partido de Liga</name>
+		<startdate>2017-2-9</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>35</id>
+		<name>BAR PICAZO - CDK GLOBAL Aplazado</name>
+		<startdate>2017-2-9</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>36</id>
+		<name>RSI 5-3 ALAMO Partido de Liga</name>
+		<startdate>2017-2-13</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>37</id>
+		<name>NONAME SPORT 4-4 PACHANBIRRAS Partido de Liga</name>
+		<startdate>2017-2-13</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#0850D6</color> <!-- Azul -->
+		<url></url>
+	</event>
+
+	<event>
+		<id>38</id>
+		<name>BAR PICAZO 2-0 FECRON UTD Partido de Liga</name>
+		<startdate>2017-2-14</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>39</id>
+		<name>NORMON 4-4 REE-TRES CANTOS Partido de Liga</name>
+		<startdate>2017-2-15</startdate>
+		<enddate></enddate>
+		<starttime>19:00</starttime>
+		<endtime>20:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>40</id>
+		<name>MORALEJA - CDK GLOBAL Aplazado</name>
+		<startdate>2017-2-16</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>41</id>
+		<name>ADS CRISA 5-3 CRISA FABRICACION Partido de Liga</name>
+		<startdate>2017-2-16</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>42</id>
+		<name>FECRON 2-13 MORALEJA Partido de Liga</name>
+		<startdate>2017-2-20</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>43</id>
+		<name>PACHANBIRRAS 3-2 ADS CRISA Partido de Liga</name>
+		<startdate>2017-2-20</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#0850D6</color> <!-- Azul -->
+		<url></url>
+	</event>
+
+
+	<event>
+		<id>44</id>
+		<name>NORMON 3-11 RSI Partido de Liga</name>
+		<startdate>2017-2-22</startdate>
+		<enddate></enddate>
+		<starttime>19:00</starttime>
+		<endtime>20:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>45</id>
+		<name>CDK GLOBAL 4-3 ALAMO CONSULTING Partido de Liga</name>
+		<startdate>2017-2-23</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>46</id>
+		<name>Cumpleaños de José Fer ¡¡FELICIDADES por tus 31!!</name>
+		<startdate>2017-2-24</startdate>
+		<enddate></enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#F71D57</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>47</id>
+		<name>BAR PICAZO 3-4 PACHANBIRRAS Partido de Liga</name>
+		<startdate>2017-2-28</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#0850D6</color> <!-- Azul -->
+		<url></url>
+	</event>
+	<!-- Fin de Febrero 2017-->
+
+	<!-- Marzo 2017-->
+
+	<event>
+		<id>48</id>
+		<name>RSI 7-7 CDK GLOBAL Partido de Liga</name>
+		<startdate>2017-3-2</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>49</id>
+		<name>MORALEJA 4-3 CRISA FABRICACION Partido de Liga</name>
+		<startdate>2017-3-2</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>51</id>
+		<name>NONAME SPORT 5-5 RSI Partido de Liga</name>
+		<startdate>2017-3-6</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>50</id>
+		<name>Partido aplazado contra Moraleja. Pachanga en Enrique Mas</name>
+		<startdate>2017-3-6</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#ABAEB4</color> <!-- Gris-->
+		<url></url>
+	</event>
+
+	<event>
+		<id>52</id>
+		<name>REE 4-3 BAR PICAZO Partido de Liga</name>
+		<startdate>2017-3-8</startdate>
+		<enddate></enddate>
+		<starttime>19:00</starttime>
+		<endtime>20:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>53</id>
+		<name>FECRON 0-6 CDK GLOBAL Partido de Liga</name>
+		<startdate>2017-3-9</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>54</id>
+		<name>CRISA FABRICACION	6-7 ALAMO CONSULTING Partido de Liga</name>
+		<startdate>2017-3-9</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>55</id>
+		<name>NORMON - ADS CRISA Partido de Liga</name>
+		<startdate>2017-3-7</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>56</id>
+		<name>ADS CRISA	- NONAME SPORT Partido de Liga</name>
+		<startdate>2017-3-13</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>57</id>
+		<name>ALAMO CONSULTING-PACHANBIRRAS Partido de Liga</name>
+		<startdate>2017-3-13</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#0850D6</color> <!-- Azul -->
+		<url></url>
+	</event>
+
+	<event>
+		<id>58</id>
+		<name>BAR PICAZO - NORMON Partido de Liga</name>
+		<startdate>2017-3-14</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>59</id>
+		<name>RSI - FECRON  Partido de Liga</name>
+		<startdate>2017-3-15</startdate>
+		<enddate></enddate>
+		<starttime>19:00</starttime>
+		<endtime>20:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>60</id>
+		<name>CDK GLOBAL - CRISA FABRICACION  Partido de Liga</name>
+		<startdate>2017-3-16</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>61</id>
+		<name>MORALEJA - REE-TRES CANTOS  Partido de Liga</name>
+		<startdate>2017-3-16</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>62</id>
+		<name>PACHANBIRRAS-FECRON Partido de Liga aplazado</name>
+		<startdate>2017-3-23</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#0850D6</color> <!-- Azul -->
+		<url></url>
+	</event>
+
+	<event>
+		<id>63</id>
+		<name>NONAME SPORT - MORALEJA Partido de Liga aplazado</name>
+		<startdate>2017-3-23</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>64</id>
+		<name>CRISA FABRICACION	- FECRON Partido de Liga</name>
+		<startdate>2017-3-27</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>65</id>
+		<name>NONAME SPORT - BAR PICAZO Partido de Liga</name>
+		<startdate>2017-3-27</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>66</id>
+		<name>NORMON - MORALEJA Partido de Liga</name>
+		<startdate>2017-3-28</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>67</id>
+		<name>ADS CRISA	- RSI Partido de Liga</name>
+		<startdate>2017-3-29</startdate>
+		<enddate></enddate>
+		<starttime>19:00</starttime>
+		<endtime>20:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>68</id>
+		<name>REE - ALAMO CONSULTING Partido de Liga</name>
+		<startdate>2017-3-30</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>PACHANBIRRAS-CDK GLOBAL SPAIN Partido de Liga</name>
+		<startdate>2017-3-30</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#0850D6</color> <!-- Azul -->
+		<url></url>
+	</event>
+	<!-- Fin de Marzo 2017-->
+
+	<!-- Abril 2017-->
+
+	<event>
+		<id></id>
+		<name>FECRON - PACHANBIRRAS Partido de Liga</name>
+		<startdate>2017-4-3</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#0850D6</color> <!-- Azul -->
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>MORALEJA-REE - NONAME SPORT Partido de Liga</name>
+		<startdate>2017-4-3</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>ALAMO CONSULTING - NORMON Partido de Liga</name>
+		<startdate>2017-4-4</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>RSI - CRISA FABRICACION SPORT Partido de Liga</name>
+		<startdate>2017-4-5</startdate>
+		<enddate></enddate>
+		<starttime>19:00</starttime>
+		<endtime>20:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>BAR PICAZO - ADS CRISA Partido de Liga</name>
+		<startdate>2017-4-6</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>CDK - REE Partido de Liga</name>
+		<startdate>2017-4-6</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>PACHANBIRRAS - RSI Partido de Liga</name>
+		<startdate>2017-4-18</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#0850D6</color> <!-- Azul -->
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>ALAMO CONSULTING - BAR PICAZO Partido de Liga</name>
+		<startdate>2017-4-20</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>FECRON - NONAME SPORT Partido de Liga</name>
+		<startdate>2017-4-20</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>NORMON - CDK GLOBAL SPAIN Partido de Liga</name>
+		<startdate>2017-4-24</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>PACHANBIRRAS-CRISA FABRICACION Partido de Liga</name>
+		<startdate>2017-4-24</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#0850D6</color> <!-- Azul -->
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>BAR PICAZO - RSI Partido de Liga</name>
+		<startdate>2017-4-25</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>REE -	FECRON UTD Partido de Liga</name>
+		<startdate>2017-4-26</startdate>
+		<enddate></enddate>
+		<starttime>19:00</starttime>
+		<endtime>20:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>ADS CRISA	- MORALEJA Partido de Liga</name>
+		<startdate>2017-4-27</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>NONAME SPORT - ALAMO CONSULTING Partido de Liga</name>
+		<startdate>2017-4-27</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#9A14CB</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>RSI-PACHANBIRRAS Partido de Liga</name>
+		<startdate>2017-5-8</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#0850D6</color> <!-- Azul -->
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>REE-PACHANBIRRAS Partido de Liga</name>
+		<startdate>2017-5-22</startdate>
+		<enddate></enddate>
+		<starttime>21:00</starttime>
+		<endtime>22:00</endtime>
+		<color>#0850D6</color> <!-- Azul -->
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>PACHANBIRRAS-NORMON Partido de Liga</name>
+		<startdate>2017-6-1</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#0850D6</color> <!-- Azul -->
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>ALAMO CONSULTING-PACHANBIRRAS Octavos de Copa. Eliminatoria directa</name>
+		<startdate>2017-6-6</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#08EE04</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>???-PACHANBIRRAS Semifinales de Copa. Eliminatoria directa</name>
+		<startdate>2017-6-12</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#08EE04</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id></id>
+		<name>ADS CRISA - PACHANBIRRAS Final de la Copa. Polideportivo de la Luz</name>
+		<startdate>2017-6-20</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime>21:00</endtime>
+		<color>#08EE04</color>
+		<url></url>
+	</event>
+
+
+</monthly>
